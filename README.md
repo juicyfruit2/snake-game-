@@ -1,8 +1,4 @@
-# snake-game-
-
-# Snake Game
-
-![Snake Game Screenshot](screenshot.png)
+# snake-game
 
 Welcome to the Snake Game! This classic and addictive game will test your reflexes and strategic thinking as you guide the snake to eat food and grow longer. Be careful not to collide with the walls or yourself, or it's game over!
 
